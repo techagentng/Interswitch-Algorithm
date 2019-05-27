@@ -13,7 +13,7 @@ for(i=0; i<len; i++){
 }
 console.log(b)
 
-// Another method using step
+// Another method using step to reduce time complexity 
 let a = [1,1,2,3,4]
 let bset = new Set(a)
 console.log(bset);
